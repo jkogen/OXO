@@ -1,5 +1,5 @@
 # OXO
-Projektmappe für OXO (Tic-Tac-Toe) erstellt mit C# .NET 5. 
+Projektmappe für OXO (Tic-Tac-Toe) als Konsolen-Anwendung. Erstellt mit C# .NET 5. 
 
 ![Spiel gewonnen](https://github.com/jkogen/OXO/blob/master/oxo1.png?raw=true)
 
