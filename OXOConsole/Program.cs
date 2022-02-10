@@ -1,7 +1,4 @@
-﻿using OXO;
-using System;
-
-Console.Clear();
+﻿Console.Clear();
 Console.Title = "OXO-Spielgenerator";
 Console.SetWindowSize(115, 40);
 

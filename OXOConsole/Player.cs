@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Threading;
-
-namespace OXO;
+﻿namespace OXO;
 public class Player
 {
     public ConsoleColor PlayerColor => FigureType == Figure.X ? ConsoleColor.Green : ConsoleColor.Red;

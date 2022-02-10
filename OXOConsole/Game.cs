@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace OXO;
+﻿namespace OXO;
 
 public class Game
 {
